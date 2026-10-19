@@ -2,8 +2,6 @@
 
 By Sofeyah Amira
 
-Video overview: (Normally there would be a URL here, but not for this sample assignment!)
-
 ## Scope
 
 The Fencing Database includes all entities necessary to facilitate the process of storing fencers and fencing competitions, with a focus on past competitions. As such, included in the database's scope is:
